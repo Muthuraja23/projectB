@@ -1,0 +1,2 @@
+# projectB
+Another java project
